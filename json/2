@@ -1,0 +1,19 @@
+{
+    "name": "Web3Builders #2",
+    "description": "",
+    "image": "ipfs://QmaQ1VKZPPCXfz87ZdbnYmEgtZ4PeLFgJCpcqAAVUdrAZ8/2.png",
+    "attributes": [
+        {
+            "trait_type": "Side Kick",
+            "value": "Saviour"
+        },
+        {
+            "trait_type": "Side Kick",
+            "value": "Hero"
+        },
+        {
+            "trait_type": "Hitman",
+            "value": "Fast"
+        }
+    ]
+}

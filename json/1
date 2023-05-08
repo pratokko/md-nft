@@ -1,0 +1,19 @@
+{
+    "name": "Web3Builders #1",
+    "description": "",
+    "image": "ipfs://QmaQ1VKZPPCXfz87ZdbnYmEgtZ4PeLFgJCpcqAAVUdrAZ8/1.png",
+    "attributes": [
+        {
+            "trait_type": "Cartoon",
+            "value": "Star"
+        },
+        {
+            "trait_type": "Main",
+            "value": "Saviour"
+        },
+        {
+            "trait_type": "Strong",
+            "value": "Super Strong"
+        }
+    ]
+}

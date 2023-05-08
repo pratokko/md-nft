@@ -1,0 +1,19 @@
+{
+    "name": "Web3Builders #3",
+    "description": "",
+    "image": "ipfs://QmaQ1VKZPPCXfz87ZdbnYmEgtZ4PeLFgJCpcqAAVUdrAZ8/3.png",
+    "attributes": [
+        {
+            "trait_type": "Spy",
+            "value": "Silent"
+        },
+        {
+            "trait_type": "Villan",
+            "value": "Tricky"
+        },
+        {
+            "trait_type": "Invinsible",
+            "value": "Shadow"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Web3Builders #0",
+    "description": "",
+    "image": "ipfs://QmaQ1VKZPPCXfz87ZdbnYmEgtZ4PeLFgJCpcqAAVUdrAZ8/0.png",
+    "attributes": [
+        {
+            "trait_type": "Cartoon",
+            "value": "savage"
+        },
+        {
+            "trait_type": "Villan",
+            "value": "Bad"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "Super Fast"
+        }
+    ]
+}
